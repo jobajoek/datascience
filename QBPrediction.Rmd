@@ -1,9 +1,7 @@
 ---
-title: "PSTAT 131 Final Project"
+title: "QBPrediction"
 author:
-- Joe Kinderman (4129896)
-- Atziry Madrigal (5900386)
-- Austin Miles (4472031)
+- Joe Kinderman
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   pdf_document: default
